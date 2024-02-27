@@ -1,3 +1,4 @@
+// 우선순위 큐
 class Node {
   constructor(val, priority) {
     this.value = val;
