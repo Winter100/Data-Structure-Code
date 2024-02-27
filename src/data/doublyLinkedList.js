@@ -1,3 +1,4 @@
+// 이중 연결 리스트
 class Node {
   constructor(val) {
     this.value = val;
